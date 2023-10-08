@@ -1,0 +1,1 @@
+# Virtuspay-plugin-wordpress
